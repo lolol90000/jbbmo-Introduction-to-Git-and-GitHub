@@ -16,3 +16,5 @@ Output
 _© 2023 XYZ, Inc._
 
 keep pushing towards your dreams
+
+git push origin bug-fix-typo
